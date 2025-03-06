@@ -1,10 +1,10 @@
 {
-    "title":"MicroBlog",
-    "subTitle":"MicroBlog,微博",
+    "title":"Home",
+    "subTitle":"Home,Pages",
     "avatarUrl":"honor.svg",
     "faviconUrl":"avatar.svg",
     "i18n":"CN",
-    "homeUrl":"https://hellopages.github.io/MicroBlog",
+    "homeUrl":"https://hellopages.github.io",
     "startSite":"11/11/2020",
     "onePageListNum":15,
     "singlePage":["link","bookmark","about"],
