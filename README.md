@@ -3,4 +3,4 @@
 ### :speech_balloon: 0 
 ### :hibiscus: 1011 
 ### :alarm_clock: 2025-03-06 22:42:59 
-### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
+### Powered by :heart: Gmeek
