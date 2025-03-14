@@ -1,5 +1,7 @@
 Domain name who is query
 
+域名who is 查询
+
 https://whoisw.com/
 
 https://tian.hu/
