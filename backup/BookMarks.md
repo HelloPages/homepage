@@ -15,6 +15,11 @@ Domain name who is query
 
 [500](https://500.co/)  高科技终端融资新闻
 
+[Domainnamewire](https://domainnamewire.com/) 域名行业资讯以及交易新闻
+
+[Domaining](https://www.domaining.com/) 域名信息
+
+
 
 
 域名who is 查询
@@ -42,10 +47,8 @@ https://whois.sl/
 [DomainR](https://domainr.com/) 域名注册信息查询
 
 
-**
 > 常用工具
 
-**
 
 [Namebio](https://namebio.com/) 国际市场域名交易行情
 
@@ -113,4 +116,24 @@ https://whois.sl/
 
 [Oneword](https://www.oneword.domains/)  推荐可注册的好域名
 
+> 域名解析
 
+[dnspod](https://www.dnspod.cn/) 免费智能DNS解析服务
+
+[帝恩思](https://www.dns.com/) 高防DNS域名解析服务商
+
+[华为云DNS](https://console.huaweicloud.com/dns) 华为云DNS
+
+[阿里云DNS](https://www.aliyun.com/product/dns) 阿里云DNS
+
+[DNS.LA](https://www.dns.la/) 免费智能DNS的解析
+
+[ZoneEdit](http://www.zoneedit.com/) 美国著名的老牌免费域名DNS解析服务
+
+[HE.NET](http://www.he.net/) 美国老牌IDC
+
+[FreeDNS](https://freedns.afraid.org/) 美国的老牌DNS网站
+
+[coudns](http://www.cloudns.net/) coudns
+
+[Cloudflare](http://Cloudflare.com/) 强大的国外免费CDN和DNS服务 **大善人**
