@@ -1,9 +1,21 @@
 Domain name who is query
 
-**
+
 > 域名资讯平台
 
-**
+
+
+[Dnjournal](https://www.dnjournal.com/domainsales.htm) 域名行业资讯以及交易新闻
+
+[Domaingang](https://domaingang.com/) 域名行业资讯以及交易新闻
+
+[Techcrunch](https://techcrunch.com/) 高科技终端融资新闻
+
+[Techstars](https://www.thedomains.com/) 高科技终端融资新闻
+
+[500](https://500.co/)  高科技终端融资新闻
+
+
 
 域名who is 查询
 
@@ -100,3 +112,5 @@ https://whois.sl/
 [Domainbasics](https://basics.domains/) 域名基础知识
 
 [Oneword](https://www.oneword.domains/)  推荐可注册的好域名
+
+
