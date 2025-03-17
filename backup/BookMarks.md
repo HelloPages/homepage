@@ -25,7 +25,7 @@ https://whois.sl/
 [DomainR](https://domainr.com/) 域名注册信息查询
 
 
-> 常用工具
+**> 常用工具**
 
 [Namebio](https://namebio.com/) 国际市场域名交易行情
 
