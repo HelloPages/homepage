@@ -13,6 +13,8 @@ Domain name who is query
 
 [Techstars](https://www.thedomains.com/) 高科技终端融资新闻
 
+[Domain.News] (https://domain.news/)  Domain.News
+
 [500](https://500.co/)  高科技终端融资新闻
 
 [Domainnamewire](https://domainnamewire.com/) 域名行业资讯以及交易新闻
@@ -20,9 +22,7 @@ Domain name who is query
 [Domaining](https://www.domaining.com/) 域名信息
 
 
-
-
-域名who is 查询
+> 域名who is 查询
 
 https://w.is/
 
@@ -44,13 +44,13 @@ https://whois.ht/
 
 https://whois.sl/
 
-[DomainR](https://domainr.com/) 域名注册信息查询
-
 
 > 常用工具
 
 
 [Namebio](https://namebio.com/) 国际市场域名交易行情
+
+[DomainR](https://domainr.com/) 域名注册信息查询
 
 [Dotdb](https://dotdb.com/top-keywords/) 域名关键字排行
 
@@ -137,3 +137,75 @@ https://whois.sl/
 [coudns](http://www.cloudns.net/) coudns
 
 [Cloudflare](http://Cloudflare.com/) 强大的国外免费CDN和DNS服务 **大善人**
+
+> 域名停放
+
+[Sedo](https://sedo.com/) 国际域名停放销售平台
+
+[Dan](https://dan.com/) 国际域名停放销售平台
+
+[4.cn](https://www.4.cn/) 国内域名停放销售平台
+
+[Flippa](https://flippa.com/) 国际域名停放销售平台
+
+[Bodis](https://www.bodis.com/) 国际域名停放销售平台
+
+[Escrow](https://www.escrow.com/) 国际域名停放销售平台
+
+[Parklogic](https://www.parklogic.com/) 国际域名停放销售平台
+
+[Parkingcrew](https://parkingcrew.com/) 国际域名停放销售平台
+
+[Afternic](https://www.afternic.com/) 国际域名停放销售平台
+
+[Efty](https://efty.com/) 国际域名停放销售平台
+
+> 域名抢注平台
+
+[Hexonet](https://www.hexonet.net/) 德国知名新后缀域名抢注商
+
+[西部数码](https://www.west.cn/) 国内米农喜欢的注册交易抢注平台
+
+[中资源](https://www.zzy.cn/) 国内抢注新后缀域名成功率高
+
+[Catched](https://catched.com/) 无需充值就可以抢注域名的注册商
+
+[Dynadot](https://www.dynadot.com/market/backorder/) 知名域名抢注服务商
+
+[Sav](https://www.sav.com/) 新后缀注册价格比较便宜的注册商 
+
+[Rrpproxy](https://www.rrpproxy.net/Domains/Domain_Backorders) 无需竞价的域名抢注服务
+
+[Istanco](https://www.istanco.com/) .ax .rs 域名抢注先到先得
+
+[park](https://park.io/) 抢注国别域名比较厉害的注册商
+
+[聚名网](http://www.juming.com/) 国内知名主流后缀域名抢注商
+
+[Nicsell](https://nicsell.com/) .de .li .se .eu 域名抢注服务
+
+[AI注册局](https://auction.whois.ai/) ai后缀域名抢注商
+
+[CatchClub](https://catch.club/) 域名抢注服务商
+
+[Snapnames](https://snapnames.com/) 国际知名主流后缀域名抢注商
+
+[Namejet](https://www.namejet.com/) 国际知名主流后缀域名抢注商
+
+[Dropcatch](https://www.dropcatch.com/) 国际知名主流后缀域名抢注商
+
+[EE注册局](https://auction.internet.ee/) .ee后缀域名抢注商
+
+[RU注册局](https://www.nic.ru/) .ru后缀域名抢注商
+
+[Docky](https://docky.ly/) 小众国别域名抢注商
+
+[Expireddomains](https://www.expireddomains.co.nz/) .nz后缀域名抢注商
+
+[Rymdweb](https://www.rymdweb.com/) .se.nu后缀域名抢注商
+
+[Nidoma](https://nidoma.com/) .it后缀域名抢注商
+
+[Catchtiger](https://www.catchtiger.com/en/domain-auctions/) .li后缀域名抢注商
+
+[Namecase](https://namecase.com/) .it后缀域名抢注商
