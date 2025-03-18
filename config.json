@@ -1,10 +1,10 @@
 {
-    "title":"HBW",
-    "subTitle":"HBW，MicroBlog，weibo,微博",
+    "title":"HelloPages",
+    "subTitle":"HelloPages，MicroBlog，weibo,微博",
     "avatarUrl":"honor.svg",
     "faviconUrl":"avatar.svg",
     "i18n":"CN",
-    "homeUrl":"https://hbw.me",
+    "homeUrl":"https://hellopages.github.io",
     "startSite":"06/27/2018",
     "onePageListNum":15,
     "singlePage":["link","bookmark","about"],
