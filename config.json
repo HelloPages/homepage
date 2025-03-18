@@ -1,11 +1,11 @@
 {
-    "title":"HelloPages",
+    "title":"Pang.Ge",
     "subTitle":"Hello World",
     "avatarUrl":"honor.svg",
     "faviconUrl":"avatar.svg",
     "i18n":"CN",
     "homeUrl":"https://hellopages.github.io",
-    "startSite":"11/11/2020",
+    "startSite":"18/03/2025",
     "onePageListNum":15,
     "singlePage":["link","bookmark","about"],
     "primerCSS":"<link href='primer.min.css' rel='stylesheet' />",
