@@ -1,6 +1,6 @@
 Domain name who is query
 
-[!NOTE]
+> [!NOTE]
 > 域名资讯平台
 
 [Dnjournal](https://www.dnjournal.com/domainsales.htm) 域名行业资讯以及交易新闻
@@ -159,6 +159,7 @@ https://whois.sl/
 
 [Efty](https://efty.com/) 国际域名停放销售平台
 
+> [!CAUTION]
 > 域名抢注平台
 
 [Hexonet](https://www.hexonet.net/) 德国知名新后缀域名抢注商
