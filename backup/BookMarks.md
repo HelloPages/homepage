@@ -211,7 +211,7 @@ https://whois.sl/
 [Namecase](https://namecase.com/) .it后缀域名抢注商
 
 > [!CAUTION]
->域名注册平台
+> 域名注册平台
 
 [Dynadot](https://dynadot.com/) 很受欢迎的国外域名注册商
 
