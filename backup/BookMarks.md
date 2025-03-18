@@ -209,3 +209,44 @@ https://whois.sl/
 [Catchtiger](https://www.catchtiger.com/en/domain-auctions/) .li后缀域名抢注商
 
 [Namecase](https://namecase.com/) .it后缀域名抢注商
+
+> [!CAUTION]
+>域名注册平台
+
+[Dynadot](https://dynadot.com/) 很受欢迎的国外域名注册商
+
+[阿里云](https://wanwang.aliyun.com/) 国内终端最喜欢的域名注册+交易平台
+
+[西部数码](https://www.west.cn/) 国内米友喜欢的域名注册+交易平台
+
+[腾讯云](https://cloud.tencent.com/) 国内优惠券最多的域名注册商
+
+[Godaddy](https://godaddy.com/) 历史悠久全球知名的域名注册商
+
+[中资源](https://zzy.cn/) 国内抢注新后缀域名成功率高
+
+[Porkbun](https://porkbun.com/) 全球米农公认的便宜注册商
+
+[Hexonet](https://hexonet.net/) 德国著名域名注册商
+
+[Name](https://name.com/) 国际知名老牌注册商
+
+[趣域网](https://quyu.net/) 国内最全国别域名注册商 
+
+[网维互联](https://www.wvidc.com/) 国内国别较全域名注册商
+
+[易名网](https://ename.com/) 国内知名主流后缀域名注册商
+
+[Afriregister](https://afriregister.com/) 比较大的非洲国家后缀注册商
+
+[101domain](https://101domain.com/) 全世界支持域名后缀最多的注册商
+
+[netim](https://netim.com/) 全世界支持域名后缀最多的注册商
+
+[Sav](https://sav.com/) 新后缀注册价格比较便宜的注册商
+
+[Namesilo](https://namesilo.com/) 支持支付宝的国外知名域名注册商
+
+[Namecheap](https://namecheap.com/) 国际知名服务优秀的域名注册商
+
+[Uniregistry](https://uniregistry.com/) 方便批量查询新后缀域名的注册商
