@@ -1,9 +1,7 @@
 Domain name who is query
 
-
+[!NOTE]
 > 域名资讯平台
-
-
 
 [Dnjournal](https://www.dnjournal.com/domainsales.htm) 域名行业资讯以及交易新闻
 
@@ -13,7 +11,7 @@ Domain name who is query
 
 [Techstars](https://www.thedomains.com/) 高科技终端融资新闻
 
-[Domain.News] (https://domain.news/)  Domain.News
+[Domain.News](https://domain.news/)  Domain.News
 
 [500](https://500.co/)  高科技终端融资新闻
 
@@ -21,7 +19,7 @@ Domain name who is query
 
 [Domaining](https://www.domaining.com/) 域名信息
 
-
+> [!TIP]
 > 域名who is 查询
 
 https://w.is/
@@ -44,9 +42,8 @@ https://whois.ht/
 
 https://whois.sl/
 
-
+> [!IMPORTANT]
 > 常用工具
-
 
 [Namebio](https://namebio.com/) 国际市场域名交易行情
 
@@ -116,6 +113,7 @@ https://whois.sl/
 
 [Oneword](https://www.oneword.domains/)  推荐可注册的好域名
 
+> [!WARNING]
 > 域名解析
 
 [dnspod](https://www.dnspod.cn/) 免费智能DNS解析服务
@@ -138,6 +136,7 @@ https://whois.sl/
 
 [Cloudflare](http://Cloudflare.com/) 强大的国外免费CDN和DNS服务 **大善人**
 
+> [!CAUTION]
 > 域名停放
 
 [Sedo](https://sedo.com/) 国际域名停放销售平台
